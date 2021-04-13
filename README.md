@@ -7,9 +7,9 @@
 
 | topic|  link | 
 |----------|:-------------:|
-| Growth mindset  |    [mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) |
-| Learning Markdown | [Markdown](https://guides.github.com/features/mastering-markdown/) |
-| Git intro |  [Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) | 
+| Growth mindset  |    [mindset](https://osamamomani1.github.io/reading-notes/readme1) |
+| Learning Markdown | [Markdown](https://osamamomani1.github.io/reading-notes/readme1) |
+| Git intro |  [Git](https://osamamomani1.github.io/reading-notes/read2) | 
 
 
 
