@@ -165,13 +165,13 @@ To import an existing project or directory into Git, follow these steps using th
 1)Switch to the target project’s directory
 
 Example:
-
-`$ cd test (cd = change directory)`
-
+```
+$ cd test (cd = change directory)
+```
 2)Use the git init command
-
-`$ git init`
-
+```
+$ git init
+```
 ***Note***: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.
 
 3)To start tracking these repository files, perform an initial commit by typing the following:
