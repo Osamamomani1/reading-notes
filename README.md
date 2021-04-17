@@ -2,7 +2,7 @@
 
 ## Hi im Osama Momani a mechatronics engineer who looking to change his career and take a first step on programming , so wish me luck 
 
-## And there is the tpic i read this Course :
+## And there is the topic i read this Course :
 
 
 | topic|  link | 
