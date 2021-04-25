@@ -21,7 +21,7 @@
 
 | topic|  link | 
 |----------|:-------------:|
-| reading1  |    -- |
+| reading1  | [class-01.md](https://osamamomani1.github.io/reading-notes/class-01) |
 | reading2 | -- |
 | reading3 |  -- | 
 | reading4 | -- |
